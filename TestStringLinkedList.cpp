@@ -3,8 +3,6 @@
 * TestStringLinkedList.cpp
 *
 * Created on: Apr 25, 2018
-*
-Author: ramesh
 */
 #include <cstdlib>
 #include <iostream>
