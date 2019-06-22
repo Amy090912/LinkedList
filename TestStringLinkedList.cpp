@@ -14,11 +14,7 @@ using namespace std;
 
 int main() {
 
-  cout << "Yimin Long"<< endl;
-  cout << "yla468" << endl;
-  cout << "301307928" << endl;
-
-
+  
   StringLinkedList L = StringLinkedList();
   string a;
 
